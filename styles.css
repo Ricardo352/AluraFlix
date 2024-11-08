@@ -1,0 +1,17 @@
+body {
+    color: white
+    background black
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(197, 20, 20);
+    padding: 20px;
+    front-size: 32px;
+    color: rgb(197, 20, 20)
+
+}
+
+selection {
+      background: rgb(184,156.213);
+}
